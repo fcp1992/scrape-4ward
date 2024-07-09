@@ -17,6 +17,7 @@
     "colors": "^1.4.0",
     "csvtojson": "^2.0.10",
     "dotenv": "^16.3.1",
-    "jsdom": "^22.1.0"
+    "jsdom": "^22.1.0",
+    "json2csv": "^6.0.0-alpha.2"
   }
 }
